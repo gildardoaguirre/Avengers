@@ -1,5 +1,4 @@
 
 
 * Nick fury
-* Capitan America 
 
